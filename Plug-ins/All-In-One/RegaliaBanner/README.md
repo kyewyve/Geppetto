@@ -1,0 +1,1 @@
+After enabling the plugin, you need to go to your profile settings and go to banner settings. You will get an additional button in the form of a gear. You can select the desired banner in it.

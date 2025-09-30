@@ -1,0 +1,1 @@
+After enabling the plugin, you just need to go to the profile settings and click on the background change.
