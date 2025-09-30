@@ -3,9 +3,9 @@ Changelog v2:
 Form Swap*:
 
 - Form 1: After game start
-- Form 2 + UltHud: After Ult (Spell4) Upgrade
-- Form 3 + UltHud: After Ult Up + 6 min.
-- Form 4 + UltHud: Form 3 + Ult Buff (Spirit Rush)
+- Form 2: After Ult (Spell4) Upgrade 	  \	(UltHud included)
+- Form 3: After Ult Up + 6 min 			  \	(UltHud included)
+- Form 4: Form 3 + Ult Buff (Spirit Rush) \ (UltHud included)
 ___________________________________________________
 
 Signature:

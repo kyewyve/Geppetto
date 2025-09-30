@@ -5,7 +5,7 @@ Form Swap*:
 - Form 1: Game Start
 - Form 2: After Ult Up
 - Form 3: 8 minutes After Ult Up
-- Form 4 (Gold) + UltHud: During R Shield + 8 minutes After Ult Up
+- Form 4: During R Shield + 8 minutes After Ult Up \ (UltHud included)
 ___________________________________________________
 
 Weapon Form Swap:
