@@ -1,0 +1,14 @@
+<h1> REGALIA Plug-Ins </h1>
+
+After enabling the plugin, you need to go to your profile settings and go to banner settings. You will get an additional button in the form of a gear. You can select the desired banner in it.
+
+<img width="218" height="189" alt="image" src="https://github.com/user-attachments/assets/e4771946-75a6-410e-a9e8-e6715af6a930" />
+<img width="248" height="74" alt="image" src="https://github.com/user-attachments/assets/dd1173e7-1863-436b-8de5-cea436bb58fe" />
+<img width="138" height="56" alt="image" src="https://github.com/user-attachments/assets/bfa1265d-67bc-4313-b71f-c13268a4901a" />
+<img width="1582" height="894" alt="image" src="https://github.com/user-attachments/assets/f1683f6d-9a5a-4caa-a937-d8ef4fe27001" />
+
+<h1> Backgrounds Plug-Ins </h1>
+
+After enabling the plugin, you just need to go to the profile settings and click on the background change.
+
+<img width="248" height="94" alt="image" src="https://github.com/user-attachments/assets/9cea3344-95db-48e9-a726-ac1f6bda0c7e" />
