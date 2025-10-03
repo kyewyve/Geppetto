@@ -1,4 +1,4 @@
-<h1> REGALIA.Plug </h1>
+<h1> Banner.Plug </h1>
 
 After enabling the plugin, you need to go to your profile settings and go to banner settings. You will get an additional button in the form of a gear. You can select the desired banner in it.
 
@@ -18,5 +18,13 @@ After enabling the plugin, you just need to go to the profile settings and click
 <h1> Icon.Plug </h1>
 
 After enabling the plugin, you need to go to your profile settings and go to icon settings. You will get an additional button in the form of a gear. You can select the desired icon in it.
+
+<img width="262" height="206" alt="image" src="https://github.com/user-attachments/assets/18e0b5a3-4dcb-4761-a563-a10f95ceaa74" />
+
+<img width="172" height="54" alt="image" src="https://github.com/user-attachments/assets/6de13fbe-9ead-4355-841e-fb768618f947" />
+
+<img width="195" height="67" alt="image" src="https://github.com/user-attachments/assets/cfe55b9f-a142-479f-a18a-9878b8b9f3a9" />
+
+<img width="1573" height="884" alt="image" src="https://github.com/user-attachments/assets/b6244413-1ed3-4596-8700-8b95f2aa60dc" />
 
 > REMEMBER: ONLY YOU CAN SEE CHANGES
