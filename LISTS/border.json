@@ -103,5 +103,10 @@
 	"id": "21",
 	"crest-type": "prestige",
     "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-21-border.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+    "assetPath": "/fe/lol-shared-components/prestige.png"
   }
 ]
