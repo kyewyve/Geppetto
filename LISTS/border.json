@@ -107,13 +107,62 @@
   {
 	"id": "23",
 	"crest-type": "ranked",
+	"ranked-tier": "iron",
+    "assetPath": "/fe/lol-shared-components/iron.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "bronze",
+    "assetPath": "/fe/lol-shared-components/bronze.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
 	"ranked-tier": "silver",
     "assetPath": "/fe/lol-shared-components/silver.png"
   },
   {
 	"id": "23",
 	"crest-type": "ranked",
+	"ranked-tier": "gold",
+    "assetPath": "/fe/lol-shared-components/gold.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "platinum",
+    "assetPath": "/fe/lol-shared-components/platinum.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "emerald",
+    "assetPath": "/fe/lol-shared-components/emerald.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "diamond",
+    "assetPath": "/fe/lol-shared-components/diamond.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "master",
+    "assetPath": "/fe/lol-shared-components/master.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
+	"ranked-tier": "grandmaster",
+    "assetPath": "/fe/lol-shared-components/grandmaster.png"
+  },
+  {
+	"id": "23",
+	"crest-type": "ranked",
 	"ranked-tier": "challenger",
     "assetPath": "/fe/lol-shared-components/challenger.png"
-  }
+  },
+  
 ]
