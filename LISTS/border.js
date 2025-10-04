@@ -1,0 +1,107 @@
+[
+  {
+	"id": "1",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-1-border.png"
+  },
+  {
+	"id": "2",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-2-border.png"
+  },
+  {
+	"id": "3",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-3-border.png"
+  },
+  {
+	"id": "4",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-4-border.png"
+  },
+  {
+	"id": "5",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-5-border.png"
+  },
+  {
+	"id": "6",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-6-border.png"
+  },
+  {
+	"id": "7",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-7-border.png"
+  },
+  {
+	"id": "8",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-8-border.png"
+  },
+  {
+	"id": "9",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-9-border.png"
+  },
+  {
+	"id": "10",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-10-border.png"
+  },
+  {
+	"id": "11",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-11-border.png"
+  },
+  {
+	"id": "12",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-12-border.png"
+  },
+  {
+	"id": "13",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-13-border.png"
+  },
+  {
+	"id": "14",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-14-border.png"
+  },
+  {
+	"id": "15",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-15-border.png"
+  },
+  {
+	"id": "16",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-16-border.png"
+  },
+  {
+	"id": "17",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-17-border.png"
+  },
+  {
+	"id": "18",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-18-border.png"
+  },
+  {
+	"id": "19",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-19-border.png"
+  },
+  {
+	"id": "20",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-20-border.png"
+  },
+  {
+	"id": "21",
+	"crest-type": "prestige",
+    "assetPath": "/fe/lol-static-assets/images/uikit/themed-borders/theme-21-border.png"
+  }
+]
