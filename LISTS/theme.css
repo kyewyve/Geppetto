@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+@keyframes scaleUp {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
+@keyframes scaleDown {
+    from {
+        transform: scale(1.1);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes ColorUp {
+    from {
+        background-color: #3a2842;
+    }
+    to {
+        background-color: #f0d5fc;
+    }
+}
+
+@keyframes ColorDown {
+    from {
+        background-color: #f0d5fc;
+    }
+    to {
+        background-color: #3a2842;
+    }
+}
+
+@keyframes softTextGlow {
+	0% {
+		text-shadow: 0 0 3px rgba(255, 2, 103, 0.3);
+	}
+	50% {
+		text-shadow: 
+			0 0 8px rgba(255, 2, 103, 0.5),
+			0 0 12px rgba(255, 2, 103, 0.2);
+	}
+	100% {
+		text-shadow: 0 0 3px rgba(255, 2, 103, 0.3);
+	}
+}
+		  
+.soft-text-glow {
+	animation: softTextGlow 4s ease-in-out infinite;
+}
