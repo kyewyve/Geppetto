@@ -10,9 +10,9 @@ ___________________________________________________
 
 Weapon Form Swap:
 
-Form 1 - During E Activate
-Form 2 - During E Activate + After Ult Up
-Form 3 - During E Activate + 8 minutes After Ult Up
+- Form 1 - During E Activate
+- Form 2 - During E Activate + After Ult Up
+- Form 3 - During E Activate + 8 minutes After Ult Up
 ___________________________________________________
 
 Signature:
